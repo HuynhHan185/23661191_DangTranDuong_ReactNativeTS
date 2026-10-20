@@ -1,1 +1,2 @@
-# 23661191_DangTranDuong_ReactNativeTS
+# Mobile
+lập trình cho thiết bị di động 
